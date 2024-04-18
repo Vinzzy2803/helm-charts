@@ -9,6 +9,6 @@ entries:
     name: nginx
     type: application
     urls:
-    - https://github.com/Vinzzy2803/helm-charts.git/nginx-0.1.0.tgz
+    - https://vinzzy2803.github.io/helm-charts
     version: 0.1.0
 generated: "2024-04-18T15:49:54.5612892+05:30"
